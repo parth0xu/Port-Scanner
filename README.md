@@ -54,5 +54,5 @@ This project is licensed under the MIT License.
 ✔ Great for Ethical Hacking & Penetration Testing
 
 📩 Contact
-Made with ❤️ by Your Name
-📧 Email: your.email@example.com
+Made with ❤️ by Parth Dabgar
+📧 Email: dabgarparth12@gmail.com
