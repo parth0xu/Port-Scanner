@@ -4,6 +4,7 @@ import socket
 import pyfiglet
 
 # Display a banner
+
 print(pyfiglet.figlet_format("Port_EX"))
 
 def scan_ports(target):
